@@ -1,0 +1,21 @@
+timeslices			                 	120
+temperature		                 		0.2
+imaginaryTimePropagation	       	8.0
+
+brownianMotionReconstructions     0
+delta_translation		             	0.74
+brownianBridgeReconstructions	  	68
+brownianBridgeAttempts	       		4
+
+MCSTEPS				                   	4000
+equilibration	              			2000
+blocks				                  	20
+
+histogram_bins			             	400
+histogram_start			            	-10
+histogram_end			              	10
+timeslices_interval_for_averages	1 29
+wavefunc                          1
+
+# Choose histogram_start & histogram_end large enough in order to
+# contain each sampled position
