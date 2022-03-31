@@ -4,4 +4,4 @@ La repository contiene 12 cartelle corrispondenti alle 12 esercitazioni del labo
 In ognuna vengono raccolte le cartelle relative ai codici e la cartella dei risultati. 
 Dentro quest'ultima si trovano `LSN_Exercises_XY.ipynb` e `EsercizioXY.ipynb` che corrispondono rispettivamente alla consegna e all'esposizione dei risultati.
 
-Per quanto riguarda l'esecuzione dei codici è possibile utilizzare i `Makefile` contenuti della cartella relativa al codice stesso.
+Per quanto riguarda l'esecuzione dei codici è possibile utilizzare i `Makefile` contenuti della cartelle relative ai codici stessi.
